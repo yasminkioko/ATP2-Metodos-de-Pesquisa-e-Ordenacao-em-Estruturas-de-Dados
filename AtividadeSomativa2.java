@@ -1,5 +1,3 @@
-//Yasmin Kioko Shimabuku
-
 package atividade2;
 
 import java.util.Arrays;
